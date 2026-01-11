@@ -171,9 +171,9 @@ timedatectl status
 출력 예시
 
 ```
-               Local time: Wed 2024-10-09 14:51:07 KST
-           Universal time: Wed 2024-10-09 05:51:07 UTC
-                 RTC time: Wed 2024-10-09 05:51:07
+               Local time: Sun 2026-01-11 23:16:21 KST
+           Universal time: Sun 2026-01-11 14:16:21 UTC
+                 RTC time: Sun 2026-01-11 14:16:21
                 Time zone: Asia/Seoul (KST, +0900)
 System clock synchronized: yes
               NTP service: active
