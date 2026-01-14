@@ -1,6 +1,6 @@
-# bare-k8s
+# vanilla-k8s
 
-베어메탈 환경에서 Kubernetes 클러스터를 구성하는 프로젝트입니다. Debian 12을 기준으로 2노드(혼합 etcd/master/worker) 구성을 다루며, 필요한 인증서, kubeconfig, systemd 유닛, 네트워크 설정을 단계별로 제공합니다.
+kubeadm 없이 바이너리 직접 설치 방식으로 Kubernetes 클러스터를 구성하는 프로젝트입니다. Debian 12을 기준으로 2노드(혼합 etcd/master/worker) 구성을 다루며, 필요한 인증서, kubeconfig, systemd 유닛, 네트워크 설정을 단계별로 제공합니다.
 
 ## 목표
 
