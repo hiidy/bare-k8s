@@ -1,4 +1,3 @@
-
 # Master 노드 배포
 
 Kubernetes master 노드는 다음 컴포넌트를 실행한다
